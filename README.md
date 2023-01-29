@@ -1,5 +1,11 @@
-# ERRAMI_MBARKI_TPB
+# Vessel detection in colour eye fundus images
 
+
+Eye fundus images are photographs of the retina (i.e. the fundus of the eye). They are captured by ophthalmologists with a specialised camera. In these images, ophthalmologist are looking for vessels and lesions that are related fro example to diabetic retinopathy or to maculopathy.
+The images present contains vessels (which include veins and arteries) that must be detected for further analysis.
+The aim of this project is to segment the vessels in these images and compare it to the ground-truth.
+
+The train set is composed of 20 images with their ground-truth given by experts.
 
 The project is divided in two folders:
 
